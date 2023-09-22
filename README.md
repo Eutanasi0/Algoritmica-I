@@ -1,2 +1,3 @@
 # Algoritmica-I
-palyer 1 player 2
+player 1 player 2
+:))))
